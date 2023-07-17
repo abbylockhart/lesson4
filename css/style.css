@@ -1,0 +1,211 @@
+/*Hex Codes
+Light Purple #b498f5;
+Dark Purple #5c0079;
+Light Pink #ff89ce;
+Flossy Pink #fdb9b9;
+Dark Pink #f642ab;
+Lemon #ffe188;*/
+
+
+
+body {
+  background-color: #5c0079;
+}
+
+
+#headerContent h1{
+  background-color:#ffe188;
+  color:#b498f5;
+  font-family: 'Caprasimo', cursive;
+  font-size:2em;
+  line-height:1em;
+  letter-spacing: 3%;
+  border-radius:55px;
+  padding: 0.5em 0.5em;
+  transform: rotate(-3.5deg);
+  width:fit-content;
+  margin:auto;
+  box-shadow: 3px 4px 4px #00000045;
+  display:block;
+}
+#highlight {
+  background-color:#ffffff9b;
+  color: #5c0079;
+}
+
+/*SubHeader*/
+.subHeading {
+  color: #fff12f;
+  font-size: 32px;
+  font-family: 'Caprasimo', cursive;
+  margin:0px;
+  padding:2px;
+  
+}
+
+/*Paragraph*/
+.paragraphStyle {
+  color: #fff;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: .9em;
+  padding:30px;
+  margin:0 50px 0 0;
+  width:90%;
+  display: inline-block;
+
+}
+
+.important {
+  color:#5c0079;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.small {
+  font-size: .7em;
+}
+
+#weight {
+  font-weight: bolder;
+}
+
+em {
+  text-decoration: underline;
+}
+
+
+
+/*Div 1*/
+#Div-1 {
+  background-color: #5c0079;
+  margin: 0px 0px;
+  padding: 0px 50px 0px 0px;
+  display: block;
+  width: 900px;
+
+}
+/*Heading 1*/
+#heading-1 {
+  background-color:#f642ab;
+  background-position: 0 0;
+  line-height:74px;
+  -moz-border-radius-topleft: 0px;
+  -moz-border-radius-topright: 30px;
+  -moz-border-radius-bottomright: 0px;
+  -moz-border-radius-bottomleft: 0px;
+  -webkit-border-radius: 0px 30px 30px 30px;
+  border-radius: 0px 30px 0px 0px;
+  padding: 0px 20px 0px 40px;
+  margin: 10px 0px 0px 0px;
+  display:inline-block;
+  width:200px;
+  font-family: 'Caprasimo', cursive;
+
+}
+/*Paragraph 1*/
+#paragraph-1 {
+  background-color:#f642ab;
+  margin: 0px 10px 0 0;
+  padding: 5px 30px 10px 20px;
+  display:block;
+  width: 100%;
+ 
+}
+
+/*Div 2*/
+#Div-2 {
+
+  background-color:#f642ab;
+  margin: 0px 0px;
+  padding: 0px 50px 0px 0px;
+  display: inline-block;
+  width: 900px;
+  
+}
+
+/*Heading 2*/
+#heading-2 {
+  background-image:url("https://cdn.pixabay.com/photo/2016/12/30/19/33/children-1941336_1280.png");
+  background-position: 0 0;
+  background-size:400px;
+  background-image: repeat;
+  background-color: #ff89ce;
+  line-height:74px;
+  -moz-border-radius-topleft: 0px;
+  -moz-border-radius-topright: 30px;
+  -moz-border-radius-bottomright: 0px;
+  -moz-border-radius-bottomleft: 0px;
+  -webkit-border-radius: 0px 30px 30px 30px;
+  border-radius: 0px 30px 0px 0px;
+  padding: 0px 20px 0px 100px;
+  margin: 10px 0px 0px 0px;
+  display:inline-block;
+  width:200px;
+  font-family: 'Caprasimo', cursive;
+
+ 
+}
+/*Paragraph 2*/
+#paragraph-2 {
+  background-image:url("https://cdn.pixabay.com/photo/2016/12/30/19/33/children-1941336_1280.png");
+  background-position: 0 -78px;
+  background-size:400px;
+  background-image: repeat;
+  background-color: #ff89ce;
+  margin: 0px;
+  padding: 15px 30px 20px 20px;
+  display:block;
+  width: 100%;
+}
+
+
+/*Div 3*/
+#Div-3 {
+
+  background-image:url("https://cdn.pixabay.com/photo/2016/12/30/19/33/children-1941336_1280.png");
+  background-position: 0 -305px;
+  background-size:400px;
+  background-image: repeat;
+  background-color: #ff89ce;
+  margin: 0px 0px;
+  padding: 0px 50px 0px 0px;
+  display: inline-block;
+  width: 900px;
+  
+}
+
+
+
+
+
+/*Heading 3*/
+#heading-3 {
+  background-image:url(../sky.jpg);
+  background-position: 0 0;
+  line-height:74px;
+  -moz-border-radius-topleft: 0px;
+  -moz-border-radius-topright: 30px;
+  -moz-border-radius-bottomright: 0px;
+  -moz-border-radius-bottomleft: 0px;
+  -webkit-border-radius: 0px 30px 30px 30px;
+  border-radius: 0px 30px 0px 0px;
+  padding: 0px 20px 0px 150px;
+  margin: 10px 0px 0px 0px;
+  display:inline-block;
+  width:300px;
+  font-family: 'Caprasimo', cursive;
+  
+
+ 
+}
+/*Paragraph 3*/
+#paragraph-3 {
+  background-image:url(../sky.jpg);
+  background-position: 0 -74px;
+  background-size: auto;
+  background-repeat: repeat;
+  margin: 0px;
+  padding: 15px 30px 100px 20px;
+  display:block;
+  width: 100%;
+}
